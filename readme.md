@@ -1,7 +1,3 @@
-<a href="https://brandondkong.com">
-    <img src="./files/header.png" style="border-radius:20px"/>
-</a>
-
 <h1 align="center">Hi, I'm Brandon Kong 👋</h1>
 
 <p>
