@@ -1,9 +1,6 @@
 <h2>Hi, I'm Brandon Kong 👋</h1>
 
-I enjoy exploring the intricate subfields of Computer Science to solve problems and increase my understanding of technology.
-I primarily code in Go, C++, and TypeScript, but I've dabbled in many other languages!
-
-I'm especially interested in user authentication and building secure systems using the latest OAuth protocols.
+I enjoy building secure authentication infrastructure and diving into systems programming to understand how technology works at a lower level. I primarily code in Go, C++, and TypeScript, but I've dabbled in many other languages!
 
 ### What I'm listening to 🎧
 
