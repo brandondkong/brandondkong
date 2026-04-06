@@ -1,6 +1,10 @@
-<h2>Hi, I'm Brandon Kong 👋</h1>
+## Hi, I'm Brandon Kong 👋
 
 I enjoy building secure authentication infrastructure and diving into systems programming to understand how technology works at a lower level. I primarily code in Go, C++, and TypeScript, but I've dabbled in many other languages!
+
+I'm currently building **tuly**, a platform that helps people ship their products faster.
+
+---
 
 ### What I'm listening to 🎧
 
